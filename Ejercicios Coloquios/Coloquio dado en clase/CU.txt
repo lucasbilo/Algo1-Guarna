@@ -1,0 +1,5 @@
+123,Ing. Informatica,2,Coloquio,8
+128,Ing. Informatica,2,TP2,4
+140,Ing. Quimica,2,TP1,5
+155,Ing. Electronica,8,Recup1,2
+180,Ing. Civil,7,Coloquio,1

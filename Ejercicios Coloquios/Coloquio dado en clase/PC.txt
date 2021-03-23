@@ -1,0 +1,5 @@
+123,Ing. Informatica,7,Parcial,6
+128,Ing. Informatica,8,TP1,7
+135,Ing. Quimica,1,TP2,10
+138,Ing. Electronica,3,Recup1,5
+180,Ing. Civil,2,Parcial,7

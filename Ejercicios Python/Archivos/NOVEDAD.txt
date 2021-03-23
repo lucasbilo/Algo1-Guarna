@@ -1,0 +1,9 @@
+132,Lucas Bilo,10000,M
+212,Simon Ponce,10312,A
+213,SSS,31
+215,Fede Recepter,4511,M
+300,Cholo Simeone,1032,A
+331,Nacho Dabove,731,B
+340,Guille Re,2511,M
+351,Agus F,312,A
+3311,A,3
